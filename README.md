@@ -1,9 +1,9 @@
-##About Soding INDIVIDUAL ASSIGNMENT
+##About Soding INDIVIDUAL ASSIGNMENT##
 Soding task is a simple application make using laravel framdwork. 
 Simple it make task. For create new task have to click "New Task" menu from home page. 
 And for all task you have to click "List all task" menu from homepage. 
 
-#All Task
+##All Task##
 In All task view, you can see everything for each task with name, description, created date and updated date etc. 
 
 
